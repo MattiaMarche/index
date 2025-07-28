@@ -23,6 +23,13 @@ If you're interested in any of these projects, want to discuss similar ideas, or
   - [KLIK Theme](#klik-theme)
   - [Base - Back-end](#base---back-end)
   - [Base - Front-end](#base---front-end)
+- [React Projects](#react-projects)
+  - [Teletherapy Mobile App](#teletherapy-mobile-app)
+  - [Management](#management)
+  - [Medical Front-end](#medical-front-end)
+- [Angular](#angular)
+  - [Boat Management (Angular 2)](#boat-management-angular-2)
+  - [Coltivation App (Ionic 4)](#coltivation-app-ionic-4)
 - [Industry and Automations](#industry-and-automations)
   - [XPM Framework](#xpm-framework)
   - [Theme](#theme)
@@ -37,6 +44,8 @@ If you're interested in any of these projects, want to discuss similar ideas, or
   - [Generation Module](#generation-module)
 - [Notion](#notion)
   - [Vision Notion](#vision-notion)
+- [Other Front-end Projects](#other-front-end-projects)
+  - [Diagnosis Assistant](#diagnosis-assistant)
 - [WordPress](#wordpress)
   - [Smart Modules](#smart-modules)
   - [Custom Fields](#custom-fields)
@@ -115,6 +124,69 @@ First repository used by KLIK to generate a solid front-end project right after 
 
 **Current status**
 - Included in 8 early KLIK projects as shared base modules (updated on June 2025)
+
+---
+
+## React Projects
+
+Projects developed using React or React Native in production environments, when a declarative UI approach and rapid component reuse were beneficial to project goals.
+
+### Teletherapy Mobile App
+
+React Native app used to deliver and track therapy plans remotely, available for both Android and iOS.
+
+Built with Expo, also showing a complex UI where the user can both record and watch videos at the same time, to perform therapy based exercises while watching their execution.
+
+**Current status**
+- In production since 2020
+- Used by ~150 professionals, also italian universities
+- Connected to a secure back-end with JWT auth and encrypted data
+
+### Management
+
+Admin dashboard built in React for internal use in mid-size companies, offering CRUD operations on products, customers and production data.
+
+**Current status**
+- In production since 2024
+- Used by 2 companies, managing ~2000 products, customers and procedures
+- Features include login, access levels, editable tables and CSV export
+
+### Medical Front-end
+
+React-based front-end used in a healthcare SaaS, displaying medical records, therapies and appointments with dynamic filtering and real-time updates.
+
+**Current status**
+- In production since 2025
+- Currently working on users onboarding (updated on July 2025)
+
+---
+
+## Angular
+
+Projects developed using Angular or Ionic in production environments, when Angular features were beneficial to project goals.
+
+### Boat Management (Angular 2)
+
+Restyling and rebuilding of an Angular 2+ management dashboard to control boat positions, users and operations from a central UI.
+
+Also compatible and exported as a Ionic application.
+
+**Current status**
+- In production from 2020
+- Used by a company for internal fleet management
+
+### Coltivation App (Ionic 4)
+
+Mobile app (Android/iOS) built with Ionic 4, designed to connect with coltivation panels and allowing the user to control:
+- General status
+- Irrigation
+- Lights (adjusting colors and intensities)
+- Programs: selecting or creating custom programs that periodically change parameters to optimize the environment for any kind of seed
+
+**Current status**
+- Distributed through a private commercial network, exclusively to selected clients, due to the need for centralized maintenance of vertical vegetation systems
+- Demo video available on [YouTube](https://www.youtube.com/watch?v=N1WZnwVHzeQ)
+- Real use case video also available on [YouTube](https://www.youtube.com/watch?v=jN_NeBPBpRc)
 
 ---
 
@@ -248,6 +320,22 @@ Useful when Make, Zapier or other utilities can't be used or cannot handle Notio
 - Used in 2 projects using Notion as back-office
 - Connected to 3 custom interfaces, showing 2 internal custom interfaces
 - Handling more than 5000 actions/month
+
+---
+
+## Other Front-end Projects
+
+### Diagnosis Assistant
+
+Medical web tool built entirely in TypeScript (no framework) to simulate AI-assisted diagnosis based on scientific heuristics and real-time user inputs.
+
+- Includes modular prediction engine and customizable symptom trees
+- Simulated accuracy tuning based on test cases and probability paths
+- Highly optimized UI without any external dependencies
+
+**Current status**
+- Internal prototype completed in 2021
+- Demo screenshot [available](./projects/diagnosis-assistant/main.jpg)
 
 ---
 
