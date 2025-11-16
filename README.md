@@ -120,6 +120,11 @@ First version of data handling back-end, managing information and retrieving per
 
 First version of the KLIK front-end, available both online and as a NPM package.
 
+Demo videos are available in Loom:
+- [Onboarding](https://www.loom.com/share/25991d95d6cf42a0b48e72ba1a454be0)
+- [Demonstration](https://www.loom.com/share/257d27c87c4a4afdbfc15ae404e5e836)
+- [Conclusions](https://www.loom.com/share/adff09e6307c4a12adf0f3997f9bdbeb)
+
 **Current status**
 - Currently used by ~10 developers in early projects (updated on June 2025)
 
@@ -172,11 +177,6 @@ First repository used by KLIK to generate a solid back-end project right after y
 <img src="/projects/klik/base-front-end/base-front-end-1.jpg" width="45%">
 
 First repository used by KLIK to generate a solid front-end project right after you write the first prompt.
-
-Demo videos are available in Loom:
-- [Onboarding](https://www.loom.com/share/25991d95d6cf42a0b48e72ba1a454be0)
-- [Demonstration](https://www.loom.com/share/257d27c87c4a4afdbfc15ae404e5e836)
-- [Conclusions](https://www.loom.com/share/adff09e6307c4a12adf0f3997f9bdbeb)
 
 **Current status**
 - Included in 8 early KLIK projects as shared base modules (updated on June 2025)
