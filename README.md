@@ -50,6 +50,9 @@ If you're interested in any of these projects, want to discuss similar ideas, or
   - [Smart Modules](#smart-modules)
   - [Custom Fields](#custom-fields)
   - [WPLog](#wplog)
+- [Passions](#passions)
+  - [Echoes of Battles](#echoes-of-battles)
+  - [Echo](#echo)
 - [Work in progress](#work-in-progress)
 
 ---
@@ -591,7 +594,7 @@ In some of those website I also used public modules I published:
 
 Do you like strategy? And board games?
 
-What if you could live an historical battle on your table, with your friends, without compromises: the real feeling of an ancient, or modern, battle.
+What if you could live an historical battle on your table, with your friends, without compromises: the real feeling of an ancient, or modern battle.
 
 Even in my childhood I loved strategy and wondered how history and nations were created, and I wanted to watch or play something real to really understand how things worked.
 
@@ -600,7 +603,7 @@ So I decided to try and create it on my own, I did and many people asked me to b
 That's why I started:
 - The full game with rules, units, maps, cards all 100% playable and balanced
 - Database and website used to track data and give a digital support for players
-- Two game modes, basic and advance, to lead new players through this new world and teach them how to really reproduce a real battle on their table
+- Two game modes, basic and advanced, to lead new players through this new world and teach them how to really reproduce a real battle on their table
 - A community to play it together
 - An early version of the digital game (closed alpha)
 
