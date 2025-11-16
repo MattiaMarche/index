@@ -217,12 +217,12 @@ Also compatible and exported as a Ionic application.
 
 ### Coltivation App (Ionic 4)
 
-<img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-1.png" width="50%">
+<img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-1.jpg" width="50%">
 <div style="display: flex; gap: 10px;">
-  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-2.png" width="20%">
-  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-3.png" width="20%">
-  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-4.png" width="20%">
-  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-5.png" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-2.jpg" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-3.jpg" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-4.jpg" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-5.jpg" width="20%">
 </div>
 
 Mobile app (Android/iOS) built with Ionic 4, designed to connect with coltivation panels and allowing the user to control:
