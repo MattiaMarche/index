@@ -79,7 +79,7 @@ These were the foundation of the system now used in KLIK.
 First version of the KLIK extension for VS Code and Cursor, improves prompts and helps manage `cursorrules` to accelerate development without losing control over the generated code.
 
 **Current status**
-- Downloaded 724 times in [Cursor](https://open-vsx.org/extension/KLIK/klik-extension) or [VS Code](https://marketplace.visualstudio.com/items?itemName=KLIK.klik-extension) (updated on November 2025)
+- Downloaded 742 times in [Cursor](https://open-vsx.org/extension/KLIK/klik-extension) and [VS Code](https://marketplace.visualstudio.com/items?itemName=KLIK.klik-extension) (updated on November 2025)
 
 **Created at**
 2025-09
@@ -169,6 +169,11 @@ First repository used by KLIK to generate a solid back-end project right after y
 <img src="/projects/klik/base-front-end/base-front-end-1.jpg" width="40%">
 
 First repository used by KLIK to generate a solid front-end project right after you write the first prompt.
+
+Demo videos are available in Loom:
+- [Onboarding](https://www.loom.com/share/25991d95d6cf42a0b48e72ba1a454be0)
+- [Demonstration](https://www.loom.com/share/257d27c87c4a4afdbfc15ae404e5e836)
+- [Conclusions](https://www.loom.com/share/adff09e6307c4a12adf0f3997f9bdbeb)
 
 **Current status**
 - Included in 8 early KLIK projects as shared base modules (updated on June 2025)
@@ -564,6 +569,71 @@ In this case it's the perfect plugin, since:
 
 **Created at**
 2024-09
+
+---
+
+## Passions
+
+In this section you can find a tiny piece of my world, the one I build after work.
+
+In some of those website I also used public modules I published:
+- [I18n TypeScript](https://github.com/MattiaMarche/i18n-lite-ts)
+- [I18n JavaScript](https://github.com/MattiaMarche/i18n-lite-js)
+- [Slideshow JavaScript](https://github.com/MattiaMarche/slideshow-js)
+
+### Echoes of Battles
+
+<img src="/projects/passions/echoes-of-battles/echoes-of-battles-1.jpg" width="40%">
+<div style="display: flex; gap: 10px;">
+  <img src="/projects/passions/echoes-of-battles/echoes-of-battles-2.jpg" width="20%">
+  <img src="/projects/passions/echoes-of-battles/echoes-of-battles-3.jpg" width="20%">
+</div>
+
+Do you like strategy? And board games?
+
+What if you could live an historical battle on your table, with your friends, without compromises: the real feeling of an ancient, or modern, battle.
+
+Even in my childhood I loved strategy and wondered how history and nations were created, and I wanted to watch or play something real to really understand how things worked.
+
+So I decided to try and create it on my own, I did and many people asked me to buy the game or to play agian together.
+
+That's why I started:
+- The full game with rules, units, maps, cards all 100% playable and balanced
+- Database and website used to track data and give a digital support for players
+- Two game modes, basic and advance, to lead new players through this new world and teach them how to really reproduce a real battle on their table
+- A community to play it together
+- An early version of the digital game (closed alpha)
+
+**Current status**
+- Completed and playable
+- Events where we play together
+- Registered look and feel, trademark, rules and concepts
+
+**Created at**
+2025-01
+
+### Echo
+
+<img src="/projects/passions/echo/echo-1.jpg" width="40%">
+<div style="display: flex; gap: 10px;">
+  <img src="/projects/passions/echo/echo-2.jpg" width="20%">
+  <img src="/projects/passions/echo/echo-3.jpg" width="20%">
+  <img src="/projects/passions/echo/echo-4.jpg" width="20%">
+  <img src="/projects/passions/echo/echo-5.jpg" width="20%">
+</div>
+
+A deep narrative I kept in my mind for too long, I decided to start writing it years ago, and now it's taking a clear shape.
+
+So I decided to create a presentation website, with the look and feel I have in mind and the possibility to ask for previews, drafts and chapters.
+
+I'ld love to receive any kind of feedback, I hope to complete the story soon sharing my thoughts, beliefs and imagination with everyone.
+
+**Current status**
+- Website: published and working, explaining the whole concept and setting behind the book
+- Book: still writing it, taking a clear shape that I'm loving more and more
+
+**Created at**
+2014-01
 
 ---
 
