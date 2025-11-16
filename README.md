@@ -49,7 +49,7 @@ If you're interested in any of these projects, want to discuss similar ideas, or
 - [WordPress](#wordpress)
   - [Smart Modules](#smart-modules)
   - [Custom Fields](#custom-fields)
-  - [XLog](#xlog)
+  - [WPLog](#wplog)
 - [Work in progress](#work-in-progress)
 
 ---
