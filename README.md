@@ -63,11 +63,11 @@ These were the foundation of the system now used in KLIK.
 - Currently used by ~10 developers in early projects (updated on June 2025)
 - Validated on 50+ experimental prompts across front-end and back-end flows
 - Fully functional in real-world dev environments (local + remote)
-- Improving accuracy and generated code quality, currently running around 50% (like other solutions on the market), around November 2025 will rise to 75-90% (accordingly to current tests made on our new prototypes)
+- Improving accuracy and generated code quality, currently running around 40% (like other solutions on the market), around November 2025 will rise to 75-90% (accordingly to current tests made on our new prototypes)
 
 ### Extension
 
-<img src="/projects/klik/extension/extension-1.jpg" width="50%">
+<img src="/projects/klik/extension/extension-1.jpg" width="40%">
 <div style="display: flex; gap: 10px;">
   <img src="/projects/klik/extension/extension-2.jpg" width="20%">
   <img src="/projects/klik/extension/extension-3.jpg" width="20%">
@@ -80,7 +80,7 @@ First version of the KLIK extension for VS Code and Cursor, improves prompts and
 
 ### Orchestrator
 
-<img src="/projects/klik/orchestrator/orchestrator-1.jpg" width="50%">
+<img src="/projects/klik/orchestrator/orchestrator-1.jpg" width="40%">
 
 First version of KLIK orchestration back-end, handling assistants and logics.
 
@@ -90,7 +90,7 @@ First version of KLIK orchestration back-end, handling assistants and logics.
 
 ### Back-end - Data
 
-<img src="/projects/klik/back-end-data/back-end-data-1.jpg" width="50%">
+<img src="/projects/klik/back-end-data/back-end-data-1.jpg" width="40%">
 <img src="/projects/klik/back-end-data/back-end-data-2.jpg" width="20%">
 
 First version of data handling back-end, managing information and retrieving permanent data.
@@ -101,7 +101,7 @@ First version of data handling back-end, managing information and retrieving per
 
 ### Front-end
 
-<img src="/projects/klik/front-end/front-end-1.jpg" width="50%">
+<img src="/projects/klik/front-end/front-end-1.jpg" width="40%">
 
 First version of the KLIK front-end, available both online and as a NPM package.
 
@@ -110,7 +110,7 @@ First version of the KLIK front-end, available both online and as a NPM package.
 
 ### Theme Core
 
-<img src="/projects/klik/theme-core/theme-core-1.jpg" width="50%">
+<img src="/projects/klik/theme-core/theme-core-1.jpg" width="40%">
 <img src="/projects/klik/theme-core/theme-core-2.jpg" width="20%">
 
 Core module used to build AI driven themes, like the first one I built to test KLIK and let it create amazing dashboards and SaaS pages.
@@ -121,7 +121,7 @@ Core module used to build AI driven themes, like the first one I built to test K
 
 ### KLIK Theme
 
-<img src="/projects/klik/klik-theme/klik-theme-1.jpg" width="50%">
+<img src="/projects/klik/klik-theme/klik-theme-1.jpg" width="40%">
 <img src="/projects/klik/klik-theme/klik-theme-2.jpg" width="20%">
 
 First AI native theme built to be used with the KLIK framework, uses the `Theme Core` to make every component ready to be used with AI.
@@ -132,7 +132,7 @@ First AI native theme built to be used with the KLIK framework, uses the `Theme 
 
 ### Base - Back-end
 
-<img src="/projects/klik/base-back-end/base-back-end-1.jpg" width="50%">
+<img src="/projects/klik/base-back-end/base-back-end-1.jpg" width="40%">
 <img src="/projects/klik/base-back-end/base-back-end-2.jpg" width="20%">
 
 First repository used by KLIK to generate a solid back-end project right after you write the first prompt.
@@ -142,7 +142,7 @@ First repository used by KLIK to generate a solid back-end project right after y
 
 ### Base - Front-end
 
-<img src="/projects/klik/base-front-end/base-front-end-1.jpg" width="50%">
+<img src="/projects/klik/base-front-end/base-front-end-1.jpg" width="40%">
 
 First repository used by KLIK to generate a solid front-end project right after you write the first prompt.
 
@@ -157,7 +157,7 @@ Projects developed using React or React Native in production environments, when 
 
 ### Teletherapy Mobile App
 
-<img src="/projects/react-projects/teletherapy-mobile-app/teletherapy-mobile-app-1.jpg" width="50%">
+<img src="/projects/react-projects/teletherapy-mobile-app/teletherapy-mobile-app-1.jpg" width="40%">
 <div style="display: flex; gap: 10px;">
   <img src="/projects/react-projects/teletherapy-mobile-app/teletherapy-mobile-app-2.jpg" width="20%">
   <img src="/projects/react-projects/teletherapy-mobile-app/teletherapy-mobile-app-3.jpg" width="20%">
@@ -174,7 +174,7 @@ Built with Expo, also showing a complex UI where the user can both record and wa
 
 ### Management
 
-<img src="/projects/react-projects/management/management-1.jpg" width="50%">
+<img src="/projects/react-projects/management/management-1.jpg" width="40%">
 
 Admin dashboard built in React for internal use in mid-size companies, offering CRUD operations on products, customers and production data.
 
@@ -185,7 +185,7 @@ Admin dashboard built in React for internal use in mid-size companies, offering 
 
 ### Medical Front-end
 
-<img src="/projects/react-projects/medical-front-end/medical-front-end-1.jpg" width="50%">
+<img src="/projects/react-projects/medical-front-end/medical-front-end-1.jpg" width="40%">
 <div style="display: flex; gap: 10px;">
   <img src="/projects/react-projects/medical-front-end/medical-front-end-2.jpg" width="20%">
   <img src="/projects/react-projects/medical-front-end/medical-front-end-3.jpg" width="20%">
@@ -205,7 +205,7 @@ Projects developed using Angular or Ionic in production environments, when Angul
 
 ### Boat Management (Angular 2)
 
-<img src="/projects/angular/boat-management-angular-2/boat-management-angular-2-1.jpg" width="50%">
+<img src="/projects/angular/boat-management-angular-2/boat-management-angular-2-1.jpg" width="40%">
 
 Restyling and rebuilding of an Angular 2+ management dashboard to control boat positions, users and operations from a central UI.
 
@@ -217,7 +217,7 @@ Also compatible and exported as a Ionic application.
 
 ### Coltivation App (Ionic 4)
 
-<img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-1.jpg" width="50%">
+<img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-1.jpg" width="40%">
 <div style="display: flex; gap: 10px;">
   <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-2.jpg" width="20%">
   <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-3.jpg" width="20%">
@@ -241,6 +241,12 @@ Mobile app (Android/iOS) built with Ionic 4, designed to connect with coltivatio
 ## Industry and Automations
 
 ### XPM Framework
+
+<img src="/projects/industry-and-automations/xpm-framework/xpm-framework-1.jpg" width="40%">
+<div style="display: flex; gap: 10px;">
+  <img src="/projects/industry-and-automations/xpm-framework/xpm-framework-2.jpg" width="20%">
+  <img src="/projects/industry-and-automations/xpm-framework/xpm-framework-3.jpg" width="20%">
+</div>
 
 Web framework built for environments where milliseconds matter.
 
@@ -270,6 +276,8 @@ Those specifics makes it 2 to 5 times faster then React (tested rendering the sa
 
 ### Theme
 
+<img src="/projects/industry-and-automations/theme/theme-1.jpg" width="40%">
+
 Web based UI theme used to build custom interfaces for industry and manufacturing fields, both for XPM and React.
 
 **Current status**
@@ -278,6 +286,8 @@ Web based UI theme used to build custom interfaces for industry and manufacturin
 
 ### PHP API
 
+<img src="/projects/industry-and-automations/php-api/php-api-1.jpg" width="40%">
+
 Module exposing a complete set of PHP REST API used in industry and manufacturing fields.
 
 **Current status**
@@ -285,6 +295,8 @@ Module exposing a complete set of PHP REST API used in industry and manufacturin
 - Used in 5 projects
 
 ### Documents Builder
+
+<img src="/projects/industry-and-automations/document-builder/document-builder-1.jpg" width="40%">
 
 In some fields pages, documents or labels need to be created and then sent to devices like printers, PLCs or modbus as data to be processed or printed.
 
@@ -296,6 +308,8 @@ I built a system that allows users to create those documents from a web page, an
 
 ### Back-office / MES
 
+<img src="/projects/industry-and-automations/back-office-mes/back-office-mes-1.jpg" width="40%">
+
 Back-office used in industries to handle data, orders or production related data.
 
 Also compatible with the headless CMS Strapi.
@@ -306,6 +320,8 @@ Also compatible with the headless CMS Strapi.
 
 ### Local back-office / MES
 
+<img src="/projects/industry-and-automations/local-back-office-mes/local-back-office-mes-1.jpg" width="40%">
+
 Local version of the back-office project built in Electron.
 
 **Current status**
@@ -313,6 +329,8 @@ Local version of the back-office project built in Electron.
 - Used in 1 mid-size manufacturing company requiring to run softwares without internet connection
 
 ### OPC-UA Module
+
+<img src="/projects/industry-and-automations/opc-ua-module/opc-ua-module-1.jpg" width="40%">
 
 NPM module for Node.js, also compatible with Strapi as plugin, that allows to communicate following the OPC-UA standard.
 
@@ -327,6 +345,8 @@ NPM module for Node.js, also compatible with Strapi as plugin, that allows to co
 
 ### Custom Pages
 
+<img src="/projects/strapi/custom-pages/custom-pages-1.jpg" width="40%">
+
 Shows custom pages on the Strapi back-office UI, without creating conflicts.
 
 Can also replace pages like the Strapi's home page, useful when it should be presented to final users accessing administration pages.
@@ -336,6 +356,8 @@ Can also replace pages like the Strapi's home page, useful when it should be pre
 
 ### Automa
 
+<img src="/projects/strapi/automa/automa-1.jpg" width="40%">
+
 Plugin listening for events and reacting by executing functions, hooks or custom code.
 
 Created to be super-light, it runs code only when needed without including it in every request.
@@ -344,6 +366,8 @@ Created to be super-light, it runs code only when needed without including it in
 - Active in 2 Strapi installations
 
 ### Generation Module
+
+<img src="/projects/strapi/generation-module/generation-module-1.jpg" width="40%">
 
 Private module boosting Strapi capabilities without impacting performance.
 
@@ -360,6 +384,12 @@ Feel free to [reach out](mailto:info@mattiamarchesini.com) for additional inform
 
 ### Vision Notion
 
+<img src="/projects/notion/vision-notion/vision-notion-1.jpg" width="40%">
+<div style="display: flex; gap: 10px;">
+  <img src="/projects/notion/vision-notion/vision-notion-2.jpg" width="20%">
+  <img src="/projects/notion/vision-notion/vision-notion-3.jpg" width="20%">
+</div>
+
 Bridge module, built with Next.js, with internal modules that perfectly adapt to the Notion's page logics, allowing to easily connect any kind of Notion data to custom pages or custom softwares.
 
 Useful when Make, Zapier or other utilities can't be used or cannot handle Notion data deeply enough, triggering highly customized actions or showing custom interfaces.
@@ -374,6 +404,8 @@ Useful when Make, Zapier or other utilities can't be used or cannot handle Notio
 ## Other Front-end Projects
 
 ### Diagnosis Assistant
+
+<img src="/projects/other-front-end-projects/diagnosis-assistant/diagnosis-assistant-1.jpg" width="40%">
 
 Medical web tool built entirely in TypeScript (no framework) to simulate AI-assisted diagnosis based on scientific heuristics and real-time user inputs.
 
@@ -393,6 +425,8 @@ Tools or plugins developed to work with complex WordPress websites.
 
 ### Smart Modules
 
+<img src="/projects/wordpress/smart-modules/smart-modules-1.jpg" width="40%">
+
 Started as a code block for internal use that can be included in child themes, now it's a `MU-Plugin`.
 
 It anticipated the `MU-Plugins` logic, allowing to develop separated, optimized and easily maintainable modules that can be added to the WordPress website with low efforts.
@@ -406,6 +440,13 @@ It also introduces a new way to handle settings, way faster than the WordPress d
 - Higher priorities stopped its diffusion, if you are interested we could improve it and share it as `MU-Plugin`
 
 ### Custom Fields
+
+<img src="/projects/wordpress/custom-fields/custom-fields-1.jpg" width="40%">
+<div style="display: flex; gap: 10px;">
+  <img src="/projects/wordpress/custom-fields/custom-fields-2.jpg" width="20%">
+  <img src="/projects/wordpress/custom-fields/custom-fields-3.jpg" width="20%">
+  <img src="/projects/wordpress/custom-fields/custom-fields-4.jpg" width="20%">
+</div>
 
 Plugin built for specific situations where:
 - An high number of request are mode on posts or custom types
@@ -426,6 +467,8 @@ In this case it's the perfect plugin, since:
 - Higher priorities stopped its diffusion, if you are interested we could improve it and share it as `WordPress Plugin`
 
 ### XLog
+
+<img src="/projects/wordpress/xlog/xlog-1.jpg" width="40%">
 
 `MU-Plugin` creating a logging system that tracks and shows in a custom webpage PHP warnings, informations and errors, setting a custom log level to:
 - Debug while working
