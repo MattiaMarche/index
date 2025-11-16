@@ -157,10 +157,10 @@ Projects developed using React or React Native in production environments, when 
 
 ### Teletherapy Mobile App
 
-<img src="/projects/teletherapy-mobile-app/teletherapy-mobile-app-1.jpg" width="50%">
+<img src="/projects/react-projects/teletherapy-mobile-app/teletherapy-mobile-app-1.jpg" width="50%">
 <div style="display: flex; gap: 10px;">
-  <img src="/projects/teletherapy-mobile-app/teletherapy-mobile-app-2.jpg" width="20%">
-  <img src="/projects/teletherapy-mobile-app/teletherapy-mobile-app-3.jpg" width="20%">
+  <img src="/projects/react-projects/teletherapy-mobile-app/teletherapy-mobile-app-2.jpg" width="20%">
+  <img src="/projects/react-projects/teletherapy-mobile-app/teletherapy-mobile-app-3.jpg" width="20%">
 </div>
 
 React Native app used to deliver and track therapy plans remotely, available for both Android and iOS.
@@ -174,7 +174,7 @@ Built with Expo, also showing a complex UI where the user can both record and wa
 
 ### Management
 
-<img src="/projects/management/management-1.jpg" width="50%">
+<img src="/projects/react-projects/management/management-1.jpg" width="50%">
 
 Admin dashboard built in React for internal use in mid-size companies, offering CRUD operations on products, customers and production data.
 
@@ -185,10 +185,10 @@ Admin dashboard built in React for internal use in mid-size companies, offering 
 
 ### Medical Front-end
 
-<img src="/projects/medical-front-end/medical-front-end-1.jpg" width="50%">
+<img src="/projects/react-projects/medical-front-end/medical-front-end-1.jpg" width="50%">
 <div style="display: flex; gap: 10px;">
-  <img src="/projects/medical-front-end/medical-front-end-2.jpg" width="20%">
-  <img src="/projects/medical-front-end/medical-front-end-3.jpg" width="20%">
+  <img src="/projects/react-projects/medical-front-end/medical-front-end-2.jpg" width="20%">
+  <img src="/projects/react-projects/medical-front-end/medical-front-end-3.jpg" width="20%">
 </div>
 
 React-based front-end used in a healthcare SaaS, displaying medical records, therapies and appointments with dynamic filtering and real-time updates.
@@ -205,7 +205,7 @@ Projects developed using Angular or Ionic in production environments, when Angul
 
 ### Boat Management (Angular 2)
 
-<img src="/projects/boat-management-angular-2/boat-management-angular-2-1.jpg" width="50%">
+<img src="/projects/angular/boat-management-angular-2/boat-management-angular-2-1.jpg" width="50%">
 
 Restyling and rebuilding of an Angular 2+ management dashboard to control boat positions, users and operations from a central UI.
 
@@ -217,12 +217,12 @@ Also compatible and exported as a Ionic application.
 
 ### Coltivation App (Ionic 4)
 
-<img src="/projects/coltivation-app-ionic-4/coltivation-app-ionic-4-1.jpg" width="50%">
+<img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-1.jpg" width="50%">
 <div style="display: flex; gap: 10px;">
-  <img src="/projects/coltivation-app-ionic-4/coltivation-app-ionic-4-2.jpg" width="20%">
-  <img src="/projects/coltivation-app-ionic-4/coltivation-app-ionic-4-3.jpg" width="20%">
-  <img src="/projects/coltivation-app-ionic-4/coltivation-app-ionic-4-4.jpg" width="20%">
-  <img src="/projects/coltivation-app-ionic-4/coltivation-app-ionic-4-5.jpg" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-2.jpg" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-3.jpg" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-4.jpg" width="20%">
+  <img src="/projects/angular/coltivation-app-ionic-4/coltivation-app-ionic-4-5.jpg" width="20%">
 </div>
 
 Mobile app (Android/iOS) built with Ionic 4, designed to connect with coltivation panels and allowing the user to control:
