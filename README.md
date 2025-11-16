@@ -67,7 +67,9 @@ These were the foundation of the system now used in KLIK.
 
 ### Extension
 
-<img src="/projects/klik/extension/extension-1.jpg" width="50%" />
+<img src="/projects/klik/extension/extension-1.jpg" width="50%">
+<img src="/projects/klik/extension/extension-2.jpg" width="20%">
+<img src="/projects/klik/extension/extension-3.jpg" width="20%">
 
 First version of the KLIK extension for VS Code and Cursor, improves prompts and helps manage `cursorrules` to accelerate development without losing control over the generated code.
 
@@ -75,6 +77,8 @@ First version of the KLIK extension for VS Code and Cursor, improves prompts and
 - Downloaded 100 times in [Cursor](https://open-vsx.org/extension/KLIK/klik-extension) or [VS Code](https://marketplace.visualstudio.com/items?itemName=KLIK.klik-extension) (updated on July 2025)
 
 ### Orchestrator
+
+<img src="/projects/klik/orchestrator/orchestrator-1.jpg" width="50%">
 
 First version of KLIK orchestration back-end, handling assistants and logics.
 
@@ -84,6 +88,9 @@ First version of KLIK orchestration back-end, handling assistants and logics.
 
 ### Back-end - Data
 
+<img src="/projects/klik/back-end-data/back-end-data-1.jpg" width="50%">
+<img src="/projects/klik/back-end-data/back-end-data-2.jpg" width="20%">
+
 First version of data handling back-end, managing information and retrieving permanent data.
 
 **Current status**
@@ -92,12 +99,17 @@ First version of data handling back-end, managing information and retrieving per
 
 ### Front-end
 
+<img src="/projects/klik/front-end/front-end-1.jpg" width="50%">
+
 First version of the KLIK front-end, available both online and as a NPM package.
 
 **Current status**
 - Currently used by ~10 developers in early projects (updated on June 2025)
 
 ### Theme Core
+
+<img src="/projects/klik/theme-core/theme-core-1.jpg" width="50%">
+<img src="/projects/klik/theme-core/theme-core-2.jpg" width="20%">
 
 Core module used to build AI driven themes, like the first one I built to test KLIK and let it create amazing dashboards and SaaS pages.
 
@@ -107,6 +119,9 @@ Core module used to build AI driven themes, like the first one I built to test K
 
 ### KLIK Theme
 
+<img src="/projects/klik/klik-theme/klik-theme-1.jpg" width="50%">
+<img src="/projects/klik/klik-theme/klik-theme-2.jpg" width="20%">
+
 First AI native theme built to be used with the KLIK framework, uses the `Theme Core` to make every component ready to be used with AI.
 
 **Current status**
@@ -115,12 +130,17 @@ First AI native theme built to be used with the KLIK framework, uses the `Theme 
 
 ### Base - Back-end
 
+<img src="/projects/klik/base-back-end/base-back-end-1.jpg" width="50%">
+<img src="/projects/klik/base-back-end/base-back-end-2.jpg" width="20%">
+
 First repository used by KLIK to generate a solid back-end project right after you write the first prompt.
 
 **Current status**
 - Included in 8 early KLIK projects as shared base modules (updated on June 2025)
 
 ### Base - Front-end
+
+<img src="/projects/klik/base-front-end/base-front-end-1.jpg" width="50%">
 
 First repository used by KLIK to generate a solid front-end project right after you write the first prompt.
 
@@ -135,6 +155,10 @@ Projects developed using React or React Native in production environments, when 
 
 ### Teletherapy Mobile App
 
+<img src="/projects/klik/teletherapy-mobile-app/teletherapy-mobile-app-1.jpg" width="50%">
+<img src="/projects/klik/teletherapy-mobile-app/teletherapy-mobile-app-2.jpg" width="20%">
+<img src="/projects/klik/teletherapy-mobile-app/teletherapy-mobile-app-3.jpg" width="20%">
+
 React Native app used to deliver and track therapy plans remotely, available for both Android and iOS.
 
 Built with Expo, also showing a complex UI where the user can both record and watch videos at the same time, to perform therapy based exercises while watching their execution.
@@ -146,6 +170,8 @@ Built with Expo, also showing a complex UI where the user can both record and wa
 
 ### Management
 
+<img src="/projects/klik/management/management-1.jpg" width="50%">
+
 Admin dashboard built in React for internal use in mid-size companies, offering CRUD operations on products, customers and production data.
 
 **Current status**
@@ -154,6 +180,10 @@ Admin dashboard built in React for internal use in mid-size companies, offering 
 - Features include login, access levels, editable tables and CSV export
 
 ### Medical Front-end
+
+<img src="/projects/klik/medical-front-end/medical-front-end-1.jpg" width="50%">
+<img src="/projects/klik/medical-front-end/medical-front-end-2.jpg" width="20%">
+<img src="/projects/klik/medical-front-end/medical-front-end-3.jpg" width="20%">
 
 React-based front-end used in a healthcare SaaS, displaying medical records, therapies and appointments with dynamic filtering and real-time updates.
 
@@ -169,6 +199,8 @@ Projects developed using Angular or Ionic in production environments, when Angul
 
 ### Boat Management (Angular 2)
 
+<img src="/projects/klik/boat-management-angular-2/boat-management-angular-2-1.jpg" width="50%">
+
 Restyling and rebuilding of an Angular 2+ management dashboard to control boat positions, users and operations from a central UI.
 
 Also compatible and exported as a Ionic application.
@@ -178,6 +210,12 @@ Also compatible and exported as a Ionic application.
 - Used by a company for internal fleet management
 
 ### Coltivation App (Ionic 4)
+
+<img src="/projects/klik/coltivation-app-ionic-4/coltivation-app-ionic-4-1.jpg" width="50%">
+<img src="/projects/klik/coltivation-app-ionic-4/coltivation-app-ionic-4-2.jpg" width="20%">
+<img src="/projects/klik/coltivation-app-ionic-4/coltivation-app-ionic-4-3.jpg" width="20%">
+<img src="/projects/klik/coltivation-app-ionic-4/coltivation-app-ionic-4-4.jpg" width="20%">
+<img src="/projects/klik/coltivation-app-ionic-4/coltivation-app-ionic-4-5.jpg" width="20%">
 
 Mobile app (Android/iOS) built with Ionic 4, designed to connect with coltivation panels and allowing the user to control:
 - General status
