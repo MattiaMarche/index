@@ -65,6 +65,9 @@ These were the foundation of the system now used in KLIK.
 - Fully functional in real-world dev environments (local + remote)
 - Improving accuracy and generated code quality, currently running around 40% (like other solutions on the market), around November 2025 will rise to 75-90% (accordingly to current tests made on our new prototypes)
 
+**Created at**
+2022-04
+
 ### Extension
 
 <img src="/projects/klik/extension/extension-1.jpg" width="40%">
@@ -76,7 +79,10 @@ These were the foundation of the system now used in KLIK.
 First version of the KLIK extension for VS Code and Cursor, improves prompts and helps manage `cursorrules` to accelerate development without losing control over the generated code.
 
 **Current status**
-- Downloaded 100 times in [Cursor](https://open-vsx.org/extension/KLIK/klik-extension) or [VS Code](https://marketplace.visualstudio.com/items?itemName=KLIK.klik-extension) (updated on July 2025)
+- Downloaded 724 times in [Cursor](https://open-vsx.org/extension/KLIK/klik-extension) or [VS Code](https://marketplace.visualstudio.com/items?itemName=KLIK.klik-extension) (updated on November 2025)
+
+**Created at**
+2025-09
 
 ### Orchestrator
 
@@ -87,6 +93,9 @@ First version of KLIK orchestration back-end, handling assistants and logics.
 **Current status**
 - Handles ~300 API calls/day across local and staging environments (updated on June 2025)
 - Powers AI-driven project creation and assistant orchestration in KLIK
+
+**Created at**
+2025-05
 
 ### Back-end - Data
 
@@ -99,6 +108,9 @@ First version of data handling back-end, managing information and retrieving per
 - Handles ~300 API calls/day (updated on June 2025)
 - Allows the KLIK core to give results based on real data and protects users handling an advanced authentication
 
+**Created at**
+2025-05
+
 ### Front-end
 
 <img src="/projects/klik/front-end/front-end-1.jpg" width="40%">
@@ -107,6 +119,9 @@ First version of the KLIK front-end, available both online and as a NPM package.
 
 **Current status**
 - Currently used by ~10 developers in early projects (updated on June 2025)
+
+**Created at**
+2025-05
 
 ### Theme Core
 
@@ -119,6 +134,9 @@ Core module used to build AI driven themes, like the first one I built to test K
 - Used in KLIK base projects
 - Currently used in other ~10 early projects (updated on June 2025)
 
+**Created at**
+2025-04
+
 ### KLIK Theme
 
 <img src="/projects/klik/klik-theme/klik-theme-1.jpg" width="40%">
@@ -130,6 +148,9 @@ First AI native theme built to be used with the KLIK framework, uses the `Theme 
 - Used in KLIK base projects
 - Currently used in other ~4 early projects (updated on June 2025)
 
+**Created at**
+2025-04
+
 ### Base - Back-end
 
 <img src="/projects/klik/base-back-end/base-back-end-1.jpg" width="40%">
@@ -140,6 +161,9 @@ First repository used by KLIK to generate a solid back-end project right after y
 **Current status**
 - Included in 8 early KLIK projects as shared base modules (updated on June 2025)
 
+**Created at**
+2025-05
+
 ### Base - Front-end
 
 <img src="/projects/klik/base-front-end/base-front-end-1.jpg" width="40%">
@@ -148,6 +172,9 @@ First repository used by KLIK to generate a solid front-end project right after 
 
 **Current status**
 - Included in 8 early KLIK projects as shared base modules (updated on June 2025)
+
+**Created at**
+2025-05
 
 ---
 
@@ -168,9 +195,12 @@ React Native app used to deliver and track therapy plans remotely, available for
 Built with Expo, also showing a complex UI where the user can both record and watch videos at the same time, to perform therapy based exercises while watching their execution.
 
 **Current status**
-- In production since 2020
+- Live since 2020
 - Used by ~150 professionals, also italian universities
 - Connected to a secure back-end with JWT auth and encrypted data
+
+**Created at**
+2020-06
 
 ### Management
 
@@ -182,6 +212,9 @@ Admin dashboard built in React for internal use in mid-size companies, offering 
 - In production since 2024
 - Used by 2 companies, managing ~2000 products, customers and procedures
 - Features include login, access levels, editable tables and CSV export
+
+**Created at**
+2023-01
 
 ### Medical Front-end
 
@@ -196,6 +229,9 @@ React-based front-end used in a healthcare SaaS, displaying medical records, the
 **Current status**
 - In production since 2025
 - Currently working on users onboarding (updated on July 2025)
+
+**Created at**
+2025-03
 
 ---
 
@@ -214,6 +250,9 @@ Also compatible and exported as a Ionic application.
 **Current status**
 - In production from 2020
 - Used by a company for internal fleet management
+
+**Created at**
+2023-04
 
 ### Coltivation App (Ionic 4)
 
@@ -235,6 +274,9 @@ Mobile app (Android/iOS) built with Ionic 4, designed to connect with coltivatio
 - Distributed through a private commercial network, exclusively to selected clients, due to the need for centralized maintenance of vertical vegetation systems
 - Demo video available on [YouTube](https://www.youtube.com/watch?v=N1WZnwVHzeQ)
 - Real use case video also available on [YouTube](https://www.youtube.com/watch?v=jN_NeBPBpRc)
+
+**Created at**
+2019-05
 
 ---
 
@@ -270,9 +312,12 @@ For example you can choose how to re-render a list specifying:
 Those specifics makes it 2 to 5 times faster then React (tested rendering the same 100 elements both in XPM and React).
 
 **Current status**
-- In production since 2023
+- Live since 2023
 - Powers packaging systems handling ~3 items/second
 - Used in mid-size manufacturing companies
+
+**Created at**
+2022-04
 
 ### Theme
 
@@ -284,6 +329,9 @@ Web based UI theme used to build custom interfaces for industry and manufacturin
 - In production since 2023
 - Used in 5 XPM and React projects
 
+**Created at**
+2022-08
+
 ### PHP API
 
 <img src="/projects/industry-and-automations/php-api/php-api-1.jpg" width="40%">
@@ -291,20 +339,26 @@ Web based UI theme used to build custom interfaces for industry and manufacturin
 Module exposing a complete set of PHP REST API used in industry and manufacturing fields.
 
 **Current status**
-- In production since 2021
+- Live since 2021
 - Used in 5 projects
+
+**Created at**
+2020-11
 
 ### Documents Builder
 
-<img src="/projects/industry-and-automations/document-builder/document-builder-1.jpg" width="40%">
+<img src="/projects/industry-and-automations/documents-builder/documents-builder-1.jpg" width="40%">
 
 In some fields pages, documents or labels need to be created and then sent to devices like printers, PLCs or modbus as data to be processed or printed.
 
 I built a system that allows users to create those documents from a web page, and export or transmit them to the correct devices.
 
 **Current status**
-- In production since 2025
+- Live since 2025
 - Used as part of 2 new softwares
+
+**Created at**
+2025-01
 
 ### Back-office / MES
 
@@ -315,8 +369,11 @@ Back-office used in industries to handle data, orders or production related data
 Also compatible with the headless CMS Strapi.
 
 **Current status**
-- In production since 2025
+- Live since 2025
 - Used in 3 mid-size manufacturing companies
+
+**Created at**
+2025-02
 
 ### Local back-office / MES
 
@@ -325,8 +382,11 @@ Also compatible with the headless CMS Strapi.
 Local version of the back-office project built in Electron.
 
 **Current status**
-- In production since 2025
+- Live since 2025
 - Used in 1 mid-size manufacturing company requiring to run softwares without internet connection
+
+**Created at**
+2025-03
 
 ### OPC-UA Module
 
@@ -335,9 +395,12 @@ Local version of the back-office project built in Electron.
 NPM module for Node.js, also compatible with Strapi as plugin, that allows to communicate following the OPC-UA standard.
 
 **Current status**
-- In production since 2025
+- Live since 2025
 - Used as part of back-office in 3 mid-size manufacturing companies
 - Allowing the adoption of the `Industry 4.0` model
+
+**Created at**
+2025-01
 
 ---
 
@@ -354,6 +417,9 @@ Can also replace pages like the Strapi's home page, useful when it should be pre
 **Current status**
 - Active in 2 back-offices
 
+**Created at**
+2024-10
+
 ### Automa
 
 <img src="/projects/strapi/automa/automa-1.jpg" width="40%">
@@ -364,6 +430,9 @@ Created to be super-light, it runs code only when needed without including it in
 
 **Current status**
 - Active in 2 Strapi installations
+
+**Created at**
+2024-10
 
 ### Generation Module
 
@@ -377,6 +446,9 @@ Feel free to [reach out](mailto:info@mattiamarchesini.com) for additional inform
 
 **Current status**
 - In development in the new KLIK core
+
+**Created at**
+2025-03
 
 ---
 
@@ -399,6 +471,9 @@ Useful when Make, Zapier or other utilities can't be used or cannot handle Notio
 - Connected to 3 custom interfaces, showing 2 internal custom interfaces
 - Handling more than 5000 actions/month
 
+**Created at**
+2025-02
+
 ---
 
 ## Other Front-end Projects
@@ -416,6 +491,9 @@ Medical web tool built entirely in TypeScript (no framework) to simulate AI-assi
 **Current status**
 - Internal prototype completed in 2021
 - Currently used for tests in universities
+
+**Created at**
+2021-07
 
 ---
 
@@ -438,6 +516,9 @@ It also introduces a new way to handle settings, way faster than the WordPress d
 **Current status**
 - Working in 3 websites and 1 SaaS
 - Higher priorities stopped its diffusion, if you are interested we could improve it and share it as `MU-Plugin`
+
+**Created at**
+2023-01
 
 ### Custom Fields
 
@@ -466,9 +547,12 @@ In this case it's the perfect plugin, since:
 - Working in 1 website and used internally
 - Higher priorities stopped its diffusion, if you are interested we could improve it and share it as `WordPress Plugin`
 
-### XLog
+**Created at**
+2024-11
 
-<img src="/projects/wordpress/xlog/xlog-1.jpg" width="40%">
+### WPLog
+
+<img src="/projects/wordpress/wplog/wplog-1.jpg" width="40%">
 
 `MU-Plugin` creating a logging system that tracks and shows in a custom webpage PHP warnings, informations and errors, setting a custom log level to:
 - Debug while working
@@ -477,6 +561,9 @@ In this case it's the perfect plugin, since:
 
 **Current status**
 - Working when needed on 5 websites, activated only when needed (to debug, detect or run checks)
+
+**Created at**
+2024-09
 
 ---
 
