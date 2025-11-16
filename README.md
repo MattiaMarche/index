@@ -67,6 +67,8 @@ These were the foundation of the system now used in KLIK.
 
 ### Extension
 
+<img src="/projects/klik/extension/extension-1.jpg" width="50%" />
+
 First version of the KLIK extension for VS Code and Cursor, improves prompts and helps manage `cursorrules` to accelerate development without losing control over the generated code.
 
 **Current status**
@@ -335,7 +337,7 @@ Medical web tool built entirely in TypeScript (no framework) to simulate AI-assi
 
 **Current status**
 - Internal prototype completed in 2021
-- Demo screenshot [available](./projects/diagnosis-assistant/main.jpg)
+- Currently used for tests in universities
 
 ---
 
