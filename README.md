@@ -6,6 +6,14 @@ Most of these were developed for clients, research, or experimental purposes and
 
 If you're interested in any of these projects, want to discuss similar ideas, or explore collaboration opportunities, feel free to get in touch.
 
+## Web version
+
+A web version is available on the link: [https://marchesini-portfolio.vercel.app/portfolio](https://marchesini-portfolio.vercel.app/portfolio)
+
+Spoiler: created in less than 15 minutes with **KLIK**!
+
+## Contacts
+
 - Author: Mattia Marchesini
 - Email: [info@mattiamarchesini.com](mailto:info@mattiamarchesini.com)
 - Website (KLIK): [https://klikdevai.com](https://klikdevai.com)
