@@ -304,6 +304,7 @@ Mobile app (Android/iOS) built with Ionic 4, designed to connect with coltivatio
 <div style="display: flex; gap: 5px;">
   <img src="/projects/industry-and-automations/xpm-framework/xpm-framework-2.jpg" width="22.5%">
   <img src="/projects/industry-and-automations/xpm-framework/xpm-framework-3.jpg" width="22.5%">
+  <img src="/projects/industry-and-automations/xpm-framework/xpm-framework-4.jpg" width="22.5%">
 </div>
 
 Web framework built for environments where milliseconds matter.
